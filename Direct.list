@@ -15,6 +15,7 @@ DOMAIN-KEYWORD,jellyfin
 DOMAIN-KEYWORD,magpiecdn
 DOMAIN-KEYWORD,magpie
 DOMAIN-KEYWORD,embymv
+DOMAIN-KEYWORD,jd
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
